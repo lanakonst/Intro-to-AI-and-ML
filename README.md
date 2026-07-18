@@ -5,8 +5,7 @@ This repository contains introductory machine learning and statistical analysis 
 The projects cover different stages of the machine learning workflow, from data preparation and statistical evaluation to implementing models from scratch.
 
 ## Projects
-
-
+<br>
 ## Antibiotic Resistance Classification
 ### File
 notebooks/AI_Antibiotics.ipynb
@@ -23,7 +22,7 @@ A classification project focused on predicting antibiotic resistance patterns.
 Multi-Resistance Antibiotic Susceptibility Dataset  
 https://www.kaggle.com/datasets/adilimadeddinehosni/multi-resistance-antibiotic-susceptibility/data
 
-
+<br>
 
 ## 5G Quality of Service Analysis
 ### File
@@ -42,7 +41,7 @@ A statistical analysis project exploring relationships between network parameter
 5G Quality of Service Dataset  
 https://www.kaggle.com/datasets/omarsobhy14/5g-quality-of-service/data
 
-
+<br>
 
 ## Regression Models from Scratch
 
@@ -60,7 +59,7 @@ notebooks/Regression_from_scratch.ipynb
 - Synthetic dataset
 - Breast Cancer Wisconsin dataset
 
-  
+  <br>
 
 ## Technologies
 
