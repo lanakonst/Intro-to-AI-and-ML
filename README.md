@@ -6,6 +6,7 @@ The projects cover different stages of the machine learning workflow, from data 
 
 ## Projects
 
+
 ## Antibiotic Resistance Classification
 ### File
 notebooks/AI_Antibiotics.ipynb
@@ -21,6 +22,7 @@ A classification project focused on predicting antibiotic resistance patterns.
 ### Dataset
 Multi-Resistance Antibiotic Susceptibility Dataset  
 https://www.kaggle.com/datasets/adilimadeddinehosni/multi-resistance-antibiotic-susceptibility/data
+
 
 
 ## 5G Quality of Service Analysis
@@ -41,6 +43,7 @@ A statistical analysis project exploring relationships between network parameter
 https://www.kaggle.com/datasets/omarsobhy14/5g-quality-of-service/data
 
 
+
 ## Regression Models from Scratch
 
 ### File
@@ -56,6 +59,7 @@ notebooks/Regression_from_scratch.ipynb
 ### Datasets
 - Synthetic dataset
 - Breast Cancer Wisconsin dataset
+
   
 
 ## Technologies
