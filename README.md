@@ -3,11 +3,10 @@
 This repository contains introductory machine learning and statistical analysis projects. It explors data preprocessing, exploratory analysis, supervised learning, and optimization techniques.
 
 The projects cover different stages of the machine learning workflow, from data preparation and statistical evaluation to implementing models from scratch.
----
 
 ## Projects
 
-### Antibiotic Resistance Classification
+## Antibiotic Resistance Classification
 ### File
 notebooks/AI_Antibiotics.ipynb
 
@@ -24,7 +23,7 @@ Multi-Resistance Antibiotic Susceptibility Dataset
 https://www.kaggle.com/datasets/adilimadeddinehosni/multi-resistance-antibiotic-susceptibility/data
 
 
-### 5G Quality of Service Analysis
+## 5G Quality of Service Analysis
 ### File
 notebooks/Statistics_5G.ipynb
 
@@ -42,7 +41,7 @@ A statistical analysis project exploring relationships between network parameter
 https://www.kaggle.com/datasets/omarsobhy14/5g-quality-of-service/data
 
 
-### Regression Models from Scratch
+## Regression Models from Scratch
 
 ### File
 notebooks/Regression_from_scratch.ipynb
@@ -59,7 +58,7 @@ notebooks/Regression_from_scratch.ipynb
 - Breast Cancer Wisconsin dataset
   
 
-### Technologies
+## Technologies
 
 - Python
 - NumPy
