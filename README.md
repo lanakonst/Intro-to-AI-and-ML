@@ -5,7 +5,9 @@ This repository contains introductory machine learning and statistical analysis 
 The projects cover different stages of the machine learning workflow, from data preparation and statistical evaluation to implementing models from scratch.
 
 ## Projects
+
 <br>
+
 ## Antibiotic Resistance Classification
 ### File
 notebooks/AI_Antibiotics.ipynb
