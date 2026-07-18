@@ -1,12 +1,19 @@
 # AI and Machine Learning Fundamentals
 
-This repository contains several introductory projects related to artificial intelligence, statistical analysis, and machine learning.
+This repository contains introductory machine learning and statistical analysis projects. It explors data preprocessing, exploratory analysis, supervised learning, and optimization techniques.
 
+The projects cover different stages of the machine learning workflow, from data preparation and statistical evaluation to implementing models from scratch.
 ---
 
 ## Projects
 
-### AI.Antibiotics.ipynb
+### Antibiotic Resistance Classification
+**File**
+notebooks/AI_Antibiotics.ipynb
+
+**Overview**
+A classification project focused on predicting antibiotic resistance patterns.
+
 **Content**
 - Data preprocessing
 - Exploratory data analysis
@@ -18,7 +25,13 @@ https://www.kaggle.com/datasets/adilimadeddinehosni/multi-resistance-antibiotic-
 
 ---
 
-### Statistics.5G.ipynb
+### 5G Quality of Service Analysis
+**File**
+notebooks/Statistics_5G.ipynb
+
+**Overview**
+A statistical analysis project exploring relationships between network parameters and quality of service metrics.
+
 **Content**
 - Data preprocessing
 - Statistical analysis
@@ -31,7 +44,11 @@ https://www.kaggle.com/datasets/omarsobhy14/5g-quality-of-service/data
 
 ---
 
-### Regression from scratch.ipynb
+### Regression Models from Scratch
+
+**File**
+notebooks/Regression_from_scratch.ipynb
+
 **Content**
 - Linear regression implemented from scratch
 - Polynomial regression with feature expansion
@@ -42,3 +59,14 @@ https://www.kaggle.com/datasets/omarsobhy14/5g-quality-of-service/data
 **Datasets**
 - Synthetic dataset
 - Breast Cancer Wisconsin dataset
+
+---
+
+### Technologies
+
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Jupyter Notebook
